@@ -1,0 +1,46 @@
+# Python
+_pycache_/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Scraper output
+output/
+*.csv
+*.json
+*.xlsx
+*.log
+scraper_*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+.ipynb_checkpoints/
+
+# Misc
+*.bak
+*.tmp
+*.swp
